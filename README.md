@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithms
-Covering all the interviews Problem solving the leet code problems.
+Covering all the interviews Problem and solving the leet code problems.
